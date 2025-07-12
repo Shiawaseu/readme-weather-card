@@ -78,5 +78,10 @@
         <li>Note: more themes = more compile time in the GitHub Actions workflow</li>
       </ul>
     </li>
+        <li>Go and visit your <code>actions</code> page to enable the workflow
+      <ul>
+        <li>You'll have to manually re-enable the workflow the first time</li>
+      </ul>
+    </li>
   </ol>
 </details>
